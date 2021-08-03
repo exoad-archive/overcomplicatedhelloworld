@@ -8,7 +8,7 @@ Contribution is always appreciated as there is never truly a real complicated wa
 ## Categories
 Most popular languages are in their own folders, and have different forms and a number assigned. However, this does not mean `Form1` is better than `Form2`, etc.. 
 
-On the other hand, for [esoteric languages](https://en.wikipedia.org/wiki/Esoteric_programming_language), they will be in a separate folder, and divided by language name as eso-langs are already not really for humans. This folder will also include machine-languages (Assembly, etc.) This also means I cannot add comments easily or notes easily for where you can find the original source, but they should be mostly around eso-lang wikis or on Tio.run
+On the other hand, for [esoteric languages](https://en.wikipedia.org/wiki/Esoteric_programming_language), they will be in a separate folder, and divided by language name as eso-langs are already not really for humans. This folder will also include machine-languages (Assembly, etc.) It should also be noted that I cannot add comments easily or notes easily for where you can find the original source, but they should be mostly around eso-lang wikis or on Tio.run
 
 For file types that do not fit any type of the general categories, they will be put into the category of others, with each having its own degsinated folder.
 
