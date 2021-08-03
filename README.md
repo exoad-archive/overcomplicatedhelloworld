@@ -1,4 +1,7 @@
 # Complicated Hello World.
+
+![]https://img.shields.io/github/repo-size/exoad/overcomplicatedhelloworld?style=for-the-badge)
+
 A collection of programs that I found to be very worthy to be selected "Most Complicated way to print Hello World"
 
 The end goal is for the program to print some form of `Hello World` either without `!`, different cases, and/or with/without the `,`. The program must print to STDOUT, and can be a random thing where `hello world` can appear some times.
