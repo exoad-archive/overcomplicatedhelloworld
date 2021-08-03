@@ -10,6 +10,8 @@ Most popular languages are in their own folders, and have different forms and a 
 
 On the other hand, for [esoteric languages](https://en.wikipedia.org/wiki/Esoteric_programming_language), they will be in a separate folder, and divided by language name as eso-langs are already not really for humans. This folder will also include machine-languages (Assembly, etc.)
 
+For file types that do not fit any type of the general categories, they will be put into the category of others, with each having its own degsinated folder.
+
 ## Notice
 
 1. Much of these code are not mine and so they will be credited to the original poster (if avaliable).
