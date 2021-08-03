@@ -1,3 +1,5 @@
+; https://codegolf.stackexchange.com/a/21580
+
 BITS 32
 
               org     0x08048000
