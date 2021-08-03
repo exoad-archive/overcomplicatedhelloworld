@@ -16,6 +16,7 @@ For file types that do not fit any type of the general categories, they will be 
 
 1. Much of these code are not mine and so they will be credited to the original poster (if avaliable).
 2. The file names will not correlate with in file items and must be readjusted manually if you want to see it in action yourself
+3. Sometimes, the original posster will not want their code disclosed (for some reason, such as a license they imposed). 
 
 ## Sources to run these files
 
