@@ -12,4 +12,5 @@ On the other hand, for [esoteric languages](https://en.wikipedia.org/wiki/Esoter
 
 ## Notice
 
-Much of these code are not mine and so they will be credited to the original poster (if avaliable).
+1. Much of these code are not mine and so they will be credited to the original poster (if avaliable).
+2. The file names will not correlate with in file items and must be readjusted manually if you want to see it in action yourself
