@@ -3,11 +3,6 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <math.h>
-
-/* 
-     * Change all zeros below (except for 2nd 0.0 on 2nd line) to 
-     * random numbers to make this a bit more confusing... 
-     */
 float weights[] = {
     -73.0, 88.0, -11.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
     0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0,
@@ -25,7 +20,6 @@ int main(int argc, char *argv[])
   int pos;
   char transition[] = {-1, 1};
   float weight, epsilon = .001, delta = 0.2;
-
   for (pos = 0; weights[pos]; pos = weight)
   {
     weight = fabs(weights[pos]);
